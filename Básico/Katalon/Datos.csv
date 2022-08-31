@@ -1,0 +1,5 @@
+﻿firstname;lastname;dob;address;email;password;company;role;expectation;waysofdevelopment;comment
+Yeison;Arias;5/05/1981;Avenida 2 # 2 2;correo1@gmail.com;12345;Personal;Developer;High salary;Take online courses;Comentario
+Camilo;Alvarez;06/13/1944;Calle 80 Sur # 21 14;camiloa@gmail.com;4321;Camilo SA;Manager;Nice manager/leader;Read books;Caso 2
+Natalia;Salcedo;01/13/2000;Carrera 80 Sur # 21 14;natalia123@gmail.com;4321;Camilo SA;QA;Good teamwork;Read books;Caso 2
+Andres;Salcedo;01/13/2000;Carrera 80 Sur # 21 14;natalia123@gmail.com;4321;Camilo SA;Business Analyst;Good teamwork;Read books;Caso 2
